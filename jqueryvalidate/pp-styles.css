@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+/* Styles */
+.display-4 {
+    font-size: 4.5rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+form .error {
+    color: black;
+}
+
+body {
+    margin: 40px 200px;
+    color: white;
+    background-color: #F6584F;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.container {
+    width: 500px;
+}
+
+
+
+form label,
+form input,
+form button {
+    border: 0;
+    margin-bottom: 3px;
+    display: block;
+    width: 100%;
+}
+form input {
+    height: 25px;
+    line-height: 25px;
+    background: #fff;
+    color: #000;
+    padding: 0 6px;
+    box-sizing: border-box;
+}
+#submit {
+    margin: 0px 0 0 0;
+}
+form button {
+    margin: 0px 0 0 0;
+}
+form .error {
+    color: black;
+}
+
+.article-reference {
+    margin-top: 15px;
+}
+.article-reference a {
+    color: #e67e22;
+}
